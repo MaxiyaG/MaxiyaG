@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm MaxiyaG</h1>
 <h3 align="center">A French IT specialist with a curious mindset, driven to learn and innovate.</h3>
 
+- 🌐 My Personal website : **https://maxiya-web.vercel.app/**
+
 - 🏫 I am a Master's student at a university,having completed three years of undergraduate studies and holding : [3rd year of a Bachelor's degree in IT](Diploma of Technology in IT)
 
-- 👨‍💻 All of my projects are available at my Github Profil: [https://github.com/MaxiyaG](https://github.com/MaxiyaG)
+- 👨‍💻 All of my projects are at my Github Profil: [https://github.com/MaxiyaG](https://github.com/MaxiyaG)
+
+- 🌱 In my spare time, I'm interested in : **Flutter**
 
 - 📫 How to reach me : **gunduz.maxime.ziya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://maxiya-web.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://maxiya-web.vercel.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gunduz-maxime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunduz-maxime" height="30" width="40" /></a>
 </p>
 
