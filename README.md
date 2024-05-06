@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MaxiyaG</h1>
 <h3 align="center">A French IT specialist with a curious mindset, driven to learn and innovate.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiyag&label=Profile%20views&color=0e75b6&style=flat" alt="maxiyag" /> </p>
+
 - 🌐 My Personal website : **https://maxiya-web.vercel.app/**
 
 - 🏫 I am a Master's student at a university, holding : **3rd year of a Bachelor's degree in IT & Diploma of Technology in IT**
