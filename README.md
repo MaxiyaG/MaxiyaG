@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are at my Github Profil: [https://github.com/MaxiyaG](https://github.com/MaxiyaG)
 
-- 🌱 In my spare time, I'm interested in : **Flutter**
-
 - 📫 How to reach me : **gunduz.maxime.ziya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
