@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiyag&label=Profile%20views&color=0e75b6&style=flat" alt="maxiyag" /> </p>
 
-- 🌐 My Personal website : **https://maxiya-web.vercel.app/**
+- 🌐 My Personal website : **https://maxiya-web.netlify.app/**
 
 - 🏫 I am a Master's student at a university, holding : **3rd year of a Bachelor's degree in IT & Diploma of Technology in IT**
 
